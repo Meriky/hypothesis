@@ -2,5 +2,6 @@
     "id": "74966eb5-20c1-424e-aac7-34a39bbdada4",
     "content": "修复Pagination",
     "pid": "4e63629a-2fcf-4e5e-b9c1-47fa3bbc9e02",
-    "progress": 100
+    "progress": 100,
+    "next": "e7c1beda-faee-4ccb-b50b-4cccd44cf9da"
 }

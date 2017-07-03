@@ -1,0 +1,19 @@
+{
+    "id": "f4c09c01-f789-4705-91c8-b0f88a63bd66",
+    "content": "自动刷新节点，根据条件判断刷新",
+    "pid": "4e63629a-2fcf-4e5e-b9c1-47fa3bbc9e02",
+    "detail": {
+        "entityMap": {},
+        "blocks": [
+            {
+                "key": "7kg6r",
+                "text": "setTimeout",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            }
+        ]
+    }
+}

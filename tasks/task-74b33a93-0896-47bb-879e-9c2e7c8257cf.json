@@ -1,0 +1,21 @@
+{
+    "id": "74b33a93-0896-47bb-879e-9c2e7c8257cf",
+    "content": "刷新按钮 RefreshNodes",
+    "pid": "4e63629a-2fcf-4e5e-b9c1-47fa3bbc9e02",
+    "next": "f4c09c01-f789-4705-91c8-b0f88a63bd66",
+    "detail": {
+        "entityMap": {},
+        "blocks": [
+            {
+                "key": "cjffs",
+                "text": "node_ids",
+                "type": "unstyled",
+                "depth": 0,
+                "inlineStyleRanges": [],
+                "entityRanges": [],
+                "data": {}
+            }
+        ]
+    },
+    "progress": 100
+}

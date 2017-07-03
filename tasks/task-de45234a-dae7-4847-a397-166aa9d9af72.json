@@ -1,5 +1,7 @@
 {
     "id": "de45234a-dae7-4847-a397-166aa9d9af72",
     "content": "使用DescribeQingCloud 描述平台",
-    "pid": "6338498f-f8bc-42a3-8feb-2f546fc10705"
+    "pid": "6338498f-f8bc-42a3-8feb-2f546fc10705",
+    "next": "8c604f12-ed39-45e3-96a5-39b48fff137a",
+    "progress": 100
 }
